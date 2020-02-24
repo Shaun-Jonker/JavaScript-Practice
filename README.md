@@ -7,8 +7,9 @@
 
 <img src="https://www.codewars.com/users/Shaun-Jonker/badges/large">
 
-**There are challenges I take part in daily if you would like to view my profile.
-and my goals are as follows.**
+**There are challenges I take part in daily if you would like to view my profile.**
+
+**My goals are as follows.**
 
 - [x] Complete beginner level challenges
 - [x] Complete intermediate level challenges
